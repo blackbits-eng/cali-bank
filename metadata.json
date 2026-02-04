@@ -1,0 +1,7 @@
+{
+  "name": "Cali-Bank - Monedero del Estudiante",
+  "description": "Una aplicación interactiva para docentes y alumnos que gestiona las calificaciones como un monedero electrónico mediante códigos QR y feedback inteligente de Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
